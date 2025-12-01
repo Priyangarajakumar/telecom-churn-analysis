@@ -1,0 +1,19 @@
+# OS / Editor Files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+*.checkpoint.ipynb
+
+# Data
+data/raw_*.csv
+*.zip
+
+# Env
+.env
+venv/
