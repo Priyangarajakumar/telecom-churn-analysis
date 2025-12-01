@@ -1,0 +1,13 @@
+Telecom Customer Churn - Project Summary
+
+This project analyzes churn behavior in a telecom customer dataset using a combination of data preprocessing, exploratory analysis, segmentation, and dashboarding.
+
+Key Insights:
+- Churn is highest among month-to-month contract customers.
+- Fiber optic users show higher churn due to cost sensitivity.
+- Customers without online security or tech support churn more frequently.
+- Early-tenure customers (0–12 months) represent the highest-risk cohort.
+- Electronic check users and non-autopay customers have significantly higher churn.
+- Revenue at Risk and CLV analysis help quantify financial impact.
+
+The final dashboard includes KPI metrics, churn segmentation visuals, billing risk analysis, and strategic retention recommendations.
