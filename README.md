@@ -1,4 +1,17 @@
 # 📊 Telecom Customer Churn Analysis Dashboard  
+> This project demonstrates end-to-end data analytics skills including data cleaning, exploratory analysis, feature engineering, dashboard development, financial impact calculation, and customer churn insights. The final result is a business-ready churn analytics dashboard with strategic recommendations.
+
+## 📸 Dashboard Preview
+
+### KPI Overview
+![KPI Section](dashboard/screenshots/kpi_section.png)
+
+### Churn by Contract Type
+![Churn by Contract](dashboard/screenshots/churn_by_contract.png)
+
+### Billing Risk Analysis
+![Billing Risk](dashboard/screenshots/billing_risk.png)
+
 **Data Analytics Portfolio**
 
 This project focuses on analyzing and visualizing customer churn behavior within a telecom company. Using a cleaned dataset and an AI-enhanced dashboard, the project identifies key churn drivers, high-risk customer segments, and actionable strategies to improve retention.
@@ -96,6 +109,21 @@ telecom-churn-analysis/
 ├── README.md
 └── LICENSE
 
+## 🚀 How to Run This Project
+
+1. Clone the repository  
+git clone https://github.com/Priyangarajakumar/telecom-churn-analysis
+
+2. Install dependencies  
+pip install -r requirements.txt
+
+3. Open Jupyter Lab  
+jupyter lab
+
+4. Run the notebooks inside `/notebooks`.
+
+5. Open the final dashboard at:  
+`dashboard/telecom_churn_dashboard.html`
 
 ---
 
@@ -116,6 +144,35 @@ Works in any browser.
 
 ---
 
+## 🔄 Reproducibility
+
+To recreate the environment:
+
+pip install -r requirements.txt
+
+arduino
+
+To open the notebooks:
+
+jupyter lab
+
+To view the dashboard:
+
+Open dashboard/telecom_churn_dashboard.html in any browser.
+
+---
+
+## 📚 Data Source
+
+The dataset used in this project is based on the publicly available **IBM Telco Customer Churn Dataset**.  
+It contains anonymized customer records with no personally identifiable information.
+
+Source (Public Domain):  
+https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/
+
+
+
 ## 🤝 Acknowledgements  
 
 Thanks to AI tools and open datasets for enabling rapid analytical development.
+
