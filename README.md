@@ -1,5 +1,5 @@
 # 📊 Telecom Customer Churn Analysis Dashboard  
-**Project 2 - Data Analytics Portfolio**
+**Data Analytics Portfolio**
 
 This project focuses on analyzing and visualizing customer churn behavior within a telecom company. Using a cleaned dataset and an AI-enhanced dashboard, the project identifies key churn drivers, high-risk customer segments, and actionable strategies to improve retention.
 
@@ -117,4 +117,5 @@ Works in any browser.
 ---
 
 ## 🤝 Acknowledgements  
+
 Thanks to AI tools and open datasets for enabling rapid analytical development.
