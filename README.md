@@ -10,7 +10,8 @@
 ![Churn by Contract](dashboard/screenshots/churn_by_contract.png)
 
 ### Billing Risk Analysis
-![Billing Risk](dashboard/screenshots/billing_risk.png)
+![Billing](dashboard/screenshots/billing.png)
+![Risk](dashboard/screenshots/risk.png)
 
 **Data Analytics Portfolio**
 
@@ -175,4 +176,5 @@ https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-
 ## 🤝 Acknowledgements  
 
 Thanks to AI tools and open datasets for enabling rapid analytical development.
+
 
